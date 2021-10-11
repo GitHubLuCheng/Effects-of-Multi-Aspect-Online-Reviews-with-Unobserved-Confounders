@@ -9,7 +9,7 @@ Please cite our paper if you use the datasets:\
   author={Cheng, Lu and Guo, Ruocheng and Candan, Kasim Selcuk and Liu, Huan},\
   journal={arXiv preprint arXiv:2110.01746},\
   year={2021}\
-}\
+}
 
 ### Reference
 > \[1\] [Lu Cheng](http://www.public.asu.edu/~lcheng35/), [Ruocheng Guo](https://www.public.asu.edu/~rguo12/), [Kasim Selcuk Candan](https://kscandan.site/) and [Huan Liu](http://www.public.asu.edu/~huanliu/). Effects of Multi-Aspect Online Reviews with Unobserved Confounders: Estimation and Implication. *International AAAI Conference on Web and Social Media (ICWSM)*, 2022.
